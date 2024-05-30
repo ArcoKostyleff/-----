@@ -1,0 +1,6 @@
+C:\Users\vvu_p\source\repos\Project\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
+C:\Users\vvu_p\source\repos\Project\Project\x64\Debug\Project.MyForm.resources
+C:\Users\vvu_p\source\repos\Project\Project\x64\Debug\Project.vcxproj.GenerateResource.cache
+D:\Учеба\ШколаКода Материалы\ПроектыДетишек\вишневецкий\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
+D:\Учеба\ШколаКода Материалы\ПроектыДетишек\вишневецкий\Project\x64\Debug\Project.MyForm.resources
+D:\Учеба\ШколаКода Материалы\ПроектыДетишек\вишневецкий\Project\x64\Debug\Project.vcxproj.GenerateResource.cache
